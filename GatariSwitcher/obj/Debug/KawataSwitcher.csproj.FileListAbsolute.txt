@@ -29,3 +29,33 @@ C:\Users\lucag\Desktop\EDITED\GatariSwitcher\obj\Debug\Kitosu Switcher_MarkupCom
 C:\Users\lucag\Desktop\EDITED\GatariSwitcher\obj\Debug\Kitosu Switcher.g.resources
 C:\Users\lucag\Desktop\EDITED\GatariSwitcher\obj\Debug\Kitosu Switcher.exe
 C:\Users\lucag\Desktop\EDITED\GatariSwitcher\obj\Debug\Kitosu Switcher.pdb
+C:\Users\Realistik\Desktop\Kitosu-Switcher-master\GatariSwitcher\bin\Debug\Kitosu Switcher.exe.config
+C:\Users\Realistik\Desktop\Kitosu-Switcher-master\GatariSwitcher\bin\Debug\Kitosu Switcher.exe
+C:\Users\Realistik\Desktop\Kitosu-Switcher-master\GatariSwitcher\bin\Debug\Kitosu Switcher.pdb
+C:\Users\Realistik\Desktop\Kitosu-Switcher-master\GatariSwitcher\obj\Debug\KawataSwitcher.csprojAssemblyReference.cache
+C:\Users\Realistik\Desktop\Kitosu-Switcher-master\GatariSwitcher\obj\Debug\ButtonStyles.baml
+C:\Users\Realistik\Desktop\Kitosu-Switcher-master\GatariSwitcher\obj\Debug\MainWindow.baml
+C:\Users\Realistik\Desktop\Kitosu-Switcher-master\GatariSwitcher\obj\Debug\App.baml
+C:\Users\Realistik\Desktop\Kitosu-Switcher-master\GatariSwitcher\obj\Debug\MainWindow.g.cs
+C:\Users\Realistik\Desktop\Kitosu-Switcher-master\GatariSwitcher\obj\Debug\App.g.cs
+C:\Users\Realistik\Desktop\Kitosu-Switcher-master\GatariSwitcher\obj\Debug\Kitosu Switcher_MarkupCompile.cache
+C:\Users\Realistik\Desktop\Kitosu-Switcher-master\GatariSwitcher\obj\Debug\Kitosu Switcher.g.resources
+C:\Users\Realistik\Desktop\Kitosu-Switcher-master\GatariSwitcher\obj\Debug\KawataSwitcher.Properties.Resources.resources
+C:\Users\Realistik\Desktop\Kitosu-Switcher-master\GatariSwitcher\obj\Debug\KawataSwitcher.csproj.GenerateResource.cache
+C:\Users\Realistik\Desktop\Kitosu-Switcher-master\GatariSwitcher\obj\Debug\Kitosu Switcher.exe
+C:\Users\Realistik\Desktop\Kitosu-Switcher-master\GatariSwitcher\obj\Debug\Kitosu Switcher.pdb
+C:\Users\Realistik\Desktop\RelSwitch\GatariSwitcher\bin\Debug\Kitosu Switcher.exe.config
+C:\Users\Realistik\Desktop\RelSwitch\GatariSwitcher\bin\Debug\Kitosu Switcher.exe
+C:\Users\Realistik\Desktop\RelSwitch\GatariSwitcher\bin\Debug\Kitosu Switcher.pdb
+C:\Users\Realistik\Desktop\RelSwitch\GatariSwitcher\obj\Debug\KawataSwitcher.csprojAssemblyReference.cache
+C:\Users\Realistik\Desktop\RelSwitch\GatariSwitcher\obj\Debug\ButtonStyles.baml
+C:\Users\Realistik\Desktop\RelSwitch\GatariSwitcher\obj\Debug\MainWindow.baml
+C:\Users\Realistik\Desktop\RelSwitch\GatariSwitcher\obj\Debug\App.baml
+C:\Users\Realistik\Desktop\RelSwitch\GatariSwitcher\obj\Debug\MainWindow.g.cs
+C:\Users\Realistik\Desktop\RelSwitch\GatariSwitcher\obj\Debug\App.g.cs
+C:\Users\Realistik\Desktop\RelSwitch\GatariSwitcher\obj\Debug\Kitosu Switcher_MarkupCompile.cache
+C:\Users\Realistik\Desktop\RelSwitch\GatariSwitcher\obj\Debug\Kitosu Switcher.g.resources
+C:\Users\Realistik\Desktop\RelSwitch\GatariSwitcher\obj\Debug\KawataSwitcher.Properties.Resources.resources
+C:\Users\Realistik\Desktop\RelSwitch\GatariSwitcher\obj\Debug\KawataSwitcher.csproj.GenerateResource.cache
+C:\Users\Realistik\Desktop\RelSwitch\GatariSwitcher\obj\Debug\Kitosu Switcher.exe
+C:\Users\Realistik\Desktop\RelSwitch\GatariSwitcher\obj\Debug\Kitosu Switcher.pdb

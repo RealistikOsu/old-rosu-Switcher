@@ -12,8 +12,7 @@ namespace KawataSwitcher
                 string result = string.Empty;
                 try
                 {
-                    var line = await webClient.DownloadStringTaskAsync(Constants.KawataIpApiAddress);
-                    result = line;
+                    result = "95.179.225.194";
                 }
                 catch { }
                 return result.Trim();

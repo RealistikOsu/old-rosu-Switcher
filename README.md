@@ -1,5 +1,9 @@
-# Kitosu-Switcher
+# RealistikOsu! Switcher
 
-souce code of the switcher used to connect to the Kitosu.cf osu! server.
+This is the switcher RealistikOsu! uses that allows the user to connect to RealistikOsu! and back.
 
-<a href="https://www.directupload.net" target="_blank"><img src="https://s19.directupload.net/images/191201/953ucsr6.png" title="Kostenlos Bilder und Fotos hochladen"></a>
+It handles the modification of the hosts file and the installation of the certificate.
+
+Occasionally it may be picked up by an anti-virus. This is because it modifies the hosts file.
+
+<img src="https://i.imgur.com/HMvvs4Y.png"></img>

@@ -33,7 +33,7 @@ namespace KawataSwitcher
             var serverIp = await GeneralHelper.GetKawataAddressAsync();
             if (serverIp == string.Empty)
             {
-                MessageBox.Show("An error occurred while retrieving Kitosu´s IP. Maybe check your Internet connection?" + Environment.NewLine +
+                MessageBox.Show("You Shouldn't see this" + Environment.NewLine +
                     "Stored IP address will be used");
                 serverIp = Constants.KawataHardcodedIp;
             }
@@ -125,7 +125,7 @@ namespace KawataSwitcher
 
         private void websiteText_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
-            System.Diagnostics.Process.Start("https://kitosu.cf");
+            System.Diagnostics.Process.Start("https://ussr.online");
         }
 
         private void titleBar_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
