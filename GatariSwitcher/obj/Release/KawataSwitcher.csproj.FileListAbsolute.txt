@@ -1,0 +1,15 @@
+C:\Users\Realistik\Documents\GitHub\rosu-Switcher\GatariSwitcher\bin\Release\Kitosu Switcher.exe.config
+C:\Users\Realistik\Documents\GitHub\rosu-Switcher\GatariSwitcher\bin\Release\Kitosu Switcher.exe
+C:\Users\Realistik\Documents\GitHub\rosu-Switcher\GatariSwitcher\bin\Release\Kitosu Switcher.pdb
+C:\Users\Realistik\Documents\GitHub\rosu-Switcher\GatariSwitcher\obj\Release\ButtonStyles.baml
+C:\Users\Realistik\Documents\GitHub\rosu-Switcher\GatariSwitcher\obj\Release\MainWindow.baml
+C:\Users\Realistik\Documents\GitHub\rosu-Switcher\GatariSwitcher\obj\Release\App.baml
+C:\Users\Realistik\Documents\GitHub\rosu-Switcher\GatariSwitcher\obj\Release\MainWindow.g.cs
+C:\Users\Realistik\Documents\GitHub\rosu-Switcher\GatariSwitcher\obj\Release\App.g.cs
+C:\Users\Realistik\Documents\GitHub\rosu-Switcher\GatariSwitcher\obj\Release\Kitosu Switcher_MarkupCompile.cache
+C:\Users\Realistik\Documents\GitHub\rosu-Switcher\GatariSwitcher\obj\Release\Kitosu Switcher.g.resources
+C:\Users\Realistik\Documents\GitHub\rosu-Switcher\GatariSwitcher\obj\Release\KawataSwitcher.Properties.Resources.resources
+C:\Users\Realistik\Documents\GitHub\rosu-Switcher\GatariSwitcher\obj\Release\KawataSwitcher.csproj.GenerateResource.cache
+C:\Users\Realistik\Documents\GitHub\rosu-Switcher\GatariSwitcher\obj\Release\Kitosu Switcher.exe
+C:\Users\Realistik\Documents\GitHub\rosu-Switcher\GatariSwitcher\obj\Release\Kitosu Switcher.pdb
+C:\Users\Realistik\Documents\GitHub\rosu-Switcher\GatariSwitcher\obj\Release\KawataSwitcher.csprojAssemblyReference.cache

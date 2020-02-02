@@ -24,24 +24,14 @@ namespace KawataSwitcher
 
         public void Uninstall()
         {
-            var store = new X509Store(StoreName.Root, StoreLocation.CurrentUser);
-            store.Open(OpenFlags.ReadWrite);
-
-            var certificates = store.Certificates.Find(X509FindType.FindBySubjectName, "*.ppy.sh", true);
-
-            foreach (var cert in certificates)
+            X509Store store = new X509Store(StoreName.Root, StoreLocation.CurrentUser);
+            try
             {
-                try
-                {
-                    store.Remove(cert);
-                }
-                catch (Exception ex)
-                {
-                    throw ex;
-                }
+                store.Open(OpenFlags.ReadWrite);
+                foreach (X509Certificate2 c in store.Certificates.Find(X509FindType.FindBySubjectName, "*.ppy.sh", true))
+                    store.Remove(c);
             }
-
-            if (store != null)
+            finally
             {
                 store.Close();
             }
